@@ -1,0 +1,35 @@
+#hu{
+    background-color: #ebd4d4;
+    align-items: center;
+    
+    margin: auto;
+}
+
+.container{
+    box-shadow: 4px 4px 2px rgba(105,105,105);
+    background-color: #fff0f0;
+    padding: 10% 29% ;
+    margin-top: 5rem;
+    border-radius:  55px 15px 55px 15px ;
+    border-top: 5px white solid;
+    border-left: 3px white solid;
+}
+
+
+h1{
+text-align: center;
+padding: 2%;
+}
+
+#formid{
+margin: auto;
+    width: 600px;
+}
+
+.form-actions{
+    text-align: center;
+    align-items: center;
+    margin: 0;
+    
+}
+
